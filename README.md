@@ -11,5 +11,5 @@ To run the project:
 
 3. Open and run the Jupyter Notebook to start the analysis.
 
-4. Ensure the S&P500
+4. Ensure the S&P500.csv and MacroTrends_Data_Download_ACGL.csv are downlaoded and located in the same folder as the notebook.
 
