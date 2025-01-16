@@ -11,5 +11,5 @@ To run the project:
 
 3. Open and run the Jupyter Notebook to start the analysis.
 
-4. Ensure the 
+4. Ensure the S&P500
 
