@@ -1,4 +1,4 @@
-# Stock_Price_Forecasting
+# Stock Price Forecasting
 
 This repository contains the code and datasets used to forecast stock prices using time series analysis. The project utilizes an ARIMA model to provide accurate predictions for the S&P500 index and Arch Capital Group LTD stock.
 
