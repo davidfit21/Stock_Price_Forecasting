@@ -5,11 +5,23 @@ This repository contains the code and datasets used to forecast stock prices usi
 ## Usage:
 
 To run the project:
-1. Clone the repository: git clone https://github.com/davidfit21/Stock_Price_Forecasting.git
+1. Clone the repository: **git clone https://github.com/davidfit21/Stock_Price_Forecasting.git**
 
-2. Navigate to the project directory: cd Stock_Price_Forecasting
+2. Navigate to the project directory: **cd Stock_Price_Forecasting**
 
-3. Open and run the Jupyter Notebook to start the analysis.
+3. Open and run the Jupyter Notebook, **Stock_Price_Forecasting,ipynb** to start the analysis.
 
-4. Ensure the S&P500.csv and MacroTrends_Data_Download_ACGL.csv are downlaoded and located in the same folder as the notebook.
+4. Ensure the **S&P500.csv** and **MacroTrends_Data_Download_ACGL.csv** are downlaoded and located in the same folder as the notebook.
+
+## Setup and Installation:
+
+- pip install pmdarima
+- pip install pandas
+- pip install numpy
+- pip install matplotlib
+- pip install statsmodels
+- pip install scipy
+- pip install scikit-learn
+- pip install joblib
+
 
