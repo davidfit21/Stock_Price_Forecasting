@@ -9,7 +9,7 @@ To run the project:
 
 2. Navigate to the project directory: **cd Stock_Price_Forecasting**
 
-3. Open and run the Jupyter Notebook, **Stock_Price_Forecasting,ipynb** to start the analysis.
+3. Open and run the Jupyter Notebook, **Stock_Price_Forecasting.ipynb** to start the analysis.
 
 4. Ensure the **S&P500.csv** and **MacroTrends_Data_Download_ACGL.csv** are downlaoded and located in the same folder as the notebook.
 
