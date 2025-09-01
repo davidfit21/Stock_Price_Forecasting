@@ -1,6 +1,6 @@
 # Stock Price Forecasting
 
-Sstock priceforecsating using time series analysis (ARIMA model).
+Sstock price forecsating using time series analysis (ARIMA model).
 
 ## Usage:
 
