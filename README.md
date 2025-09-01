@@ -1,6 +1,6 @@
 # Stock Price Forecasting
 
-Sstock price forecsating using time series analysis (ARIMA model).
+Stock price forecsating using time series analysis (ARIMA model).
 
 ## Setup and Installation:
 
